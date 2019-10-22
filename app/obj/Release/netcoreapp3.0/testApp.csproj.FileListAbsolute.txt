@@ -1,0 +1,11 @@
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.exe
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.deps.json
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.runtimeconfig.json
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.runtimeconfig.dev.json
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.dll
+F:\sumi\Coding\Docker\Test\app\bin\Release\netcoreapp3.0\testApp.pdb
+F:\sumi\Coding\Docker\Test\app\obj\Release\netcoreapp3.0\testApp.csprojAssemblyReference.cache
+F:\sumi\Coding\Docker\Test\app\obj\Release\netcoreapp3.0\testApp.AssemblyInfoInputs.cache
+F:\sumi\Coding\Docker\Test\app\obj\Release\netcoreapp3.0\testApp.AssemblyInfo.cs
+F:\sumi\Coding\Docker\Test\app\obj\Release\netcoreapp3.0\testApp.dll
+F:\sumi\Coding\Docker\Test\app\obj\Release\netcoreapp3.0\testApp.pdb
